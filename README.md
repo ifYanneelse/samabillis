@@ -31,5 +31,19 @@
       <p>App web destinada à consulta e identificação de espécies de angiospermas da restinga catarinense, para auxiliar estudos e atividades de identificação botânica.
 </p>
     </td>
+  </tr><br><br>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🗃️ Banco de Dados — Vegetação e Flora de Santa Catarina</h3>
+      <p>
+        Página integrada à plataforma <b>Scientia Amabilis</b>, com consulta
+        ao banco de dados de vegetação e flora de Santa Catarina. Permite
+        realizar buscas por <b>espécie, gênero ou família</b> e visualizar
+        os registros encontrados.
+      </p>
+      <a href="https://scientiaamabilis.ufsc.br/vegetacao-flora-sc.html">
+        <img src="busca-banco-dados.png" alt="Banco de Dados - Vegetação e Flora de Santa Catarina">
+      </a>      
+    </td>
   </tr>
 </table>
